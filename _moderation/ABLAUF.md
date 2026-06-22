@@ -13,9 +13,11 @@ Internes Format, ~5 Abteilungsleitungen, 2er-Gruppen. Du moderierst.
 
 ## Ablauf
 
-### 0:00–0:05 · Frame
-- „Ihr kennt KI als Chatfenster. Heute machen wir was anderes: **ihr redet auf Deutsch — und es entsteht echte Software.** Am Ende habt ihr ein fertiges Winter-Web-Ding, das ihr behalten könnt."
-- Kurz die 3 Konzepte zeigen (Beamer: Startseite). Nicht erklären, neugierig machen.
+### 0:00–0:08 · Intro-Präsentation („Was mit KI heute geht")
+- **Präsentation am Beamer:** `public/praesentation.html` (Doppelklick) **oder** live: https://ep-ki-workshop.vercel.app/praesentation.html — Pfeiltasten blättern, **F** = Vollbild.
+- Bildstarker Schnelldurchlauf (2025/26-Beispiele: Video/Veo, Musik/Suno, Bild/Nano-Banana, Stimme, Echtzeit/Gemini Live, Agenten, Vibe Coding). Wenig reden, staunen lassen.
+- Letzte Slides leiten über: „Und jetzt baut **ihr** das" → die 3 Konzepte. Kernbotschaft: **ihr redet auf Deutsch — es entsteht echte Software**, am Ende habt ihr was zum Behalten.
+- Die Bilder der Präsentation sind übrigens **selbst mit KI erzeugt** (schöner Aufhänger).
 
 ### 0:05–0:12 · Setup + Gruppen
 - 2er-Gruppen bilden, je ein Konzept zuteilen (oder wählen lassen).
