@@ -17,7 +17,8 @@ Internes Format, ~5 Abteilungsleitungen, 2er-Gruppen. Du moderierst.
 - **Präsentation am Beamer:** `public/praesentation.html` (Doppelklick) **oder** live: https://ep-ki-workshop.vercel.app/praesentation.html — Pfeiltasten blättern, **F** = Vollbild.
 - Bildstarker Schnelldurchlauf (2025/26-Beispiele: Video/Veo, Musik/Suno, Bild/Nano-Banana, Stimme, Echtzeit/Gemini Live, Agenten, Vibe Coding). Wenig reden, staunen lassen.
 - Letzte Slides leiten über: „Und jetzt baut **ihr** das" → die 3 Konzepte. Kernbotschaft: **ihr redet auf Deutsch — es entsteht echte Software**, am Ende habt ihr was zum Behalten.
-- Die Bilder der Präsentation sind übrigens **selbst mit KI erzeugt** (schöner Aufhänger).
+- Die Bilder **und Videos** der Präsentation sind **selbst mit KI erzeugt** (Veo 3.1 + Imagen 4) — starker Aufhänger: „alles, was ihr hier seht, ist KI."
+- **Zwei Live-Mitmach-Slides** (🎨 Bild & 🔊 Stimme): das Publikum ruft ein Motiv/einen Satz zu, du tippst ihn ein → die KI erzeugt es **live**. ⚠️ Dafür die Präsentation über die **Online-URL** öffnen (nicht die lokale Datei), sonst sind die Live-Buttons inaktiv. Vorab einmal testen.
 
 ### 0:05–0:12 · Setup + Gruppen
 - 2er-Gruppen bilden, je ein Konzept zuteilen (oder wählen lassen).
