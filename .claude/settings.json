@@ -13,5 +13,14 @@
       "Bash(winget install:*)",
       "Bash(brew install:*)"
     ]
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          { "type": "command", "command": "npm install" }
+        ]
+      }
+    ]
   }
 }
