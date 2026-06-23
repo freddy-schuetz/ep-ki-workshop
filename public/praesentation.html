@@ -28,6 +28,10 @@
   .cards{display:flex;gap:3vmin;margin-top:5vmin;flex-wrap:wrap;justify-content:center}
   .card{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.25);border-radius:2.5vmin;padding:4vmin 4.5vmin;min-width:30vmin}
   .card .e{font-size:9vmin}.card .t{font-size:3vmin;font-weight:800;margin-top:1.5vmin}
+  .howto{margin-top:4vmin;text-align:left;max-width:min(82vw,860px);list-style:none;counter-reset:s;display:flex;flex-direction:column;gap:2.2vmin}
+  .howto li{counter-increment:s;font-size:3.2vmin;padding-left:7.5vmin;position:relative;line-height:1.25}
+  .howto li::before{content:counter(s);position:absolute;left:0;top:0;width:5vmin;height:5vmin;background:var(--accent);color:#fff;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:2.8vmin}
+  .howto code{background:rgba(255,255,255,.16);padding:.2vmin 1vmin;border-radius:.8vmin;font-size:2.7vmin}
   .demoWrap{justify-content:center;align-items:center;text-align:center;background:#06101f}
   .demoWrap h1{font-size:6vmin;margin-bottom:2.5vmin}
   .player{position:relative;z-index:2;width:min(70vw,120vh);align-self:center;border-radius:2vmin;overflow:hidden;box-shadow:0 1vmin 5vmin rgba(0,0,0,.5)}
@@ -160,6 +164,19 @@
     <video class="bg" autoplay muted loop playsinline poster="praesentation/start.png"><source src="praesentation/veo_finale.mp4" type="video/mp4"></video>
     <h1>Los geht's!</h1>
     <div class="cap">Viel Schnee für wenig Flocken ❄️ #schneesüchtig</div>
+  </section>
+
+  <!-- Anleitung für Teilnehmende (letzte Seite) -->
+  <section class="slide center">
+    <div class="overline">So legt ihr los — zu zweit</div>
+    <h1 style="font-size:7vmin">In 5 Schritten 🚀</h1>
+    <ol class="howto">
+      <li>Im Browser <b>claude.ai/code</b> öffnen & einloggen</li>
+      <li>Euer <b>Gruppen-Repo</b> auswählen: <code>ep-ki-workshop-gruppe-1 … 5</code></li>
+      <li>Im Chat <b>„Starten"</b> eintippen</li>
+      <li>Konzept wählen → <b>Schritt für Schritt</b> bauen (bei Fragen: „wir hängen")</li>
+      <li>Ergebnis ansehen: <code>…-gruppe-N.vercel.app</code> — nach jedem Schritt neu laden</li>
+    </ol>
   </section>
 
 </div>
