@@ -8,7 +8,7 @@ Internes Format, ~5 Abteilungsleitungen, 2er-Gruppen. Du moderierst.
 - [ ] **Template-Repo gepusht**; einmal in claude.ai/code geöffnet, Setup + Vorschau laufen.
 - [ ] **Generalprobe:** alle 3 Konzepte über die Briefs selbst nachgebaut → `_referenz/` ist aktuell. Zeiten notiert.
 - [ ] **Coach-Stresstest:** „wir hängen" an mehreren Stellen → Coach führt sauber weiter.
-- [ ] **Zugang:** Account-Login auf den Gruppen-Laptops getestet (parallele Sessions ok).
+- [ ] **Login (wichtig):** Alle melden sich bei **claude.ai/code** mit **`eundp.reisen.events@gmail.com`** an. Der Login schickt einen **Bestätigungs-Code** an dieses Gmail-Postfach → **du liest die Codes vor** (Postfach offen halten), die Teilnehmer brauchen KEIN Gmail-Login. Pro Gerät ein eigener Code → am besten **Gruppe für Gruppe** nacheinander einloggen.
 - [ ] **Raum:** WLAN getestet (mehrere Sessions), Hotspot als Backup, Beamer, Ideen-Karten gedruckt.
 
 ## Ablauf

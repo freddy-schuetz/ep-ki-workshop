@@ -4,9 +4,9 @@ Ihr baut **zu zweit** in ~45 Minuten euer eigenes kleines Winter-Web-Erlebnis �
 einfach indem ihr auf Deutsch sagt, was ihr wollt. Die KI baut, der Coach führt euch.
 
 ## 🚀 So startet ihr
-Euer Projekt ist schon offen. Schreibt im Chat einfach:
-
-> **Starten**
+1. **claude.ai/code** öffnen, **einloggen** mit `eundp.reisen.events@gmail.com` (den Bestätigungs-Code bekommt ihr von der Moderation).
+2. Euer **Gruppen-Repo** auswählen: `ep-ki-workshop-gruppe-1 … 5`.
+3. Im Chat **„Starten"** tippen.
 
 Der Coach begrüßt euch, fragt **welches Konzept** ihr bauen wollt, und legt **Schritt für Schritt** los:
 - 🏔️ **Pisten-Postkarte** — Winterbild mit sanftem Zoom, Schnee und eurem Gruß, zum Teilen
